@@ -50,6 +50,10 @@ nav > div > img
     margin-right: 15px;
     padding: 0 15px;
 }
+
+#logo {
+    border-radius: 3px;
+}
 nav > div > div, nav > div > i
 {
     padding: 5px 10px;
